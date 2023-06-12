@@ -1,0 +1,6 @@
+person1 = (input("Key"))
+person1_mean = (input("Mean"))
+person2 = (input("Key"))
+person2_mean = (input("Mean"))
+person3 = (input("Key"))
+person2_mean = (input("Mean"))
